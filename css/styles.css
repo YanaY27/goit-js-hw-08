@@ -1,4 +1,4 @@
-.gallery{
+.gallery {
   max-width: 1128px;
   padding-top: 24px;
   margin: 0 auto;
@@ -6,11 +6,12 @@
   flex-wrap: wrap;
   gap: 24px;
 }
+
 ul{
   list-style-type: none;
 }
 
-.gallery-item{
+.gallery-item {
   width: 360px;
   height: 200px;
   overflow: hidden;
@@ -23,6 +24,6 @@ ul{
 }
 .gallery-item img:hover{
   color: 4E75FF;
-  cursor:url('/img/Vector.svg'), auto;
+  cursor:url('/image/bxs_hand-down.svg'), auto;
 }
   
